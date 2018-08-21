@@ -189,7 +189,7 @@ expect(rows[0]).to eq(" O | O | O ")
       expect(rows[3]).to eq("-----------")
       expect(rows[4]).to eq(" O | O | O ")
       # *** Comment the line below by adding a # at the line start ***
-      expect(true).to be(true)
+      # expect(true).to be(true)
     end
   end
 end
